@@ -709,6 +709,7 @@ fun MainScreen(
         "yes" -> "Yes Bank"
         "idbi" -> "IDBI Bank"
         "canara" -> "Canara Bank"
+        "iob" -> "Indian Overseas Bank"
         else -> "HDFC Bank"
     }
 
