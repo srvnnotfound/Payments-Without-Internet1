@@ -156,7 +156,8 @@ object SmsTransactionParser {
         "UNION" to "Union Bank",
         "CANARA" to "Canara Bank",
         "IndusInd" to "IndusInd Bank",
-        "Federal" to "Federal Bank"
+        "Federal" to "Federal Bank",
+        "IOB" to "Indian Overseas Bank"
     )
 
     // Transaction success indicators
