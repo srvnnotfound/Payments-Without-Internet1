@@ -140,7 +140,7 @@ val banks = listOf(
     Bank("bob", "Bank of Baroda"),
     Bank("yes", "Yes Bank"),
     Bank("idbi", "IDBI Bank"),
-    Bank("canara", "Canara Bank")
+    Bank("canara", "Canara Bank"),
     Bank("iob", "Indian Overseas Bank")
 )
 
