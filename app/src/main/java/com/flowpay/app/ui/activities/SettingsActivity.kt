@@ -141,6 +141,7 @@ val banks = listOf(
     Bank("yes", "Yes Bank"),
     Bank("idbi", "IDBI Bank"),
     Bank("canara", "Canara Bank")
+    Bank("iob", "Indian Overseas Bank")
 )
 
 // ViewModel
