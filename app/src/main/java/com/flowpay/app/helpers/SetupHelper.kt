@@ -103,6 +103,7 @@ class SetupHelper(
             "yes" to "Yes Bank",
             "idbi" to "IDBI Bank",
             "canara" to "Canara Bank"
+            "iob" to "Indian Overseas Bank"
         )
     }
 
