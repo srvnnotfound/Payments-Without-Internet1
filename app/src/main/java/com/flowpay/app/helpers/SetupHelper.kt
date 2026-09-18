@@ -102,7 +102,7 @@ class SetupHelper(
             "bob" to "Bank of Baroda",
             "yes" to "Yes Bank",
             "idbi" to "IDBI Bank",
-            "canara" to "Canara Bank"
+            "canara" to "Canara Bank",
             "iob" to "Indian Overseas Bank"
         )
     }
